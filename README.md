@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a fitness app Momentum.<br>👯 I’m looking to collaborate on social media platforms for the further success of my project.<br>🤝 I’m looking for help with the actual deployment of my app and further referrals.<br>🌱 I’m currently learning Data Structures and algorithms.<br>
+🌱 I’m currently learning Data Structures and algorithms.<br>
 
 
 ## 🌐 Socials:
